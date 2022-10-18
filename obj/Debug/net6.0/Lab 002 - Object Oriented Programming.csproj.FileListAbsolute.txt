@@ -1,0 +1,15 @@
+C:\Users\Imir\source\repos\Official\Lab\Lab 002 - Object Oriented Programming\bin\Debug\net6.0\Lab 002 - Object Oriented Programming.exe
+C:\Users\Imir\source\repos\Official\Lab\Lab 002 - Object Oriented Programming\bin\Debug\net6.0\Lab 002 - Object Oriented Programming.deps.json
+C:\Users\Imir\source\repos\Official\Lab\Lab 002 - Object Oriented Programming\bin\Debug\net6.0\Lab 002 - Object Oriented Programming.runtimeconfig.json
+C:\Users\Imir\source\repos\Official\Lab\Lab 002 - Object Oriented Programming\bin\Debug\net6.0\Lab 002 - Object Oriented Programming.dll
+C:\Users\Imir\source\repos\Official\Lab\Lab 002 - Object Oriented Programming\bin\Debug\net6.0\Lab 002 - Object Oriented Programming.pdb
+C:\Users\Imir\source\repos\Official\Lab\Lab 002 - Object Oriented Programming\obj\Debug\net6.0\Lab 002 - Object Oriented Programming.csproj.AssemblyReference.cache
+C:\Users\Imir\source\repos\Official\Lab\Lab 002 - Object Oriented Programming\obj\Debug\net6.0\Lab 002 - Object Oriented Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Imir\source\repos\Official\Lab\Lab 002 - Object Oriented Programming\obj\Debug\net6.0\Lab 002 - Object Oriented Programming.AssemblyInfoInputs.cache
+C:\Users\Imir\source\repos\Official\Lab\Lab 002 - Object Oriented Programming\obj\Debug\net6.0\Lab 002 - Object Oriented Programming.AssemblyInfo.cs
+C:\Users\Imir\source\repos\Official\Lab\Lab 002 - Object Oriented Programming\obj\Debug\net6.0\Lab 002 - Object Oriented Programming.csproj.CoreCompileInputs.cache
+C:\Users\Imir\source\repos\Official\Lab\Lab 002 - Object Oriented Programming\obj\Debug\net6.0\Lab 002 - Object Oriented Programming.dll
+C:\Users\Imir\source\repos\Official\Lab\Lab 002 - Object Oriented Programming\obj\Debug\net6.0\refint\Lab 002 - Object Oriented Programming.dll
+C:\Users\Imir\source\repos\Official\Lab\Lab 002 - Object Oriented Programming\obj\Debug\net6.0\Lab 002 - Object Oriented Programming.pdb
+C:\Users\Imir\source\repos\Official\Lab\Lab 002 - Object Oriented Programming\obj\Debug\net6.0\Lab 002 - Object Oriented Programming.genruntimeconfig.cache
+C:\Users\Imir\source\repos\Official\Lab\Lab 002 - Object Oriented Programming\obj\Debug\net6.0\ref\Lab 002 - Object Oriented Programming.dll
